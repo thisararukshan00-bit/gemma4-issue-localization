@@ -1,0 +1,10 @@
+repo,n,method,file@5,func@5
+fastapi/fastapi,14,bm25,0.643,0.286
+fastapi/fastapi,14,bm25+graph,0.643,0.286
+fastapi/fastapi,14,bm25+graph(2hop),0.643,0.286
+psf/requests,8,bm25,0.875,0.500
+psf/requests,8,bm25+graph,0.875,0.625
+psf/requests,8,bm25+graph(2hop),0.875,0.500
+Textualize/rich,6,bm25,0.667,0.333
+Textualize/rich,6,bm25+graph,0.833,0.333
+Textualize/rich,6,bm25+graph(2hop),0.667,0.333
